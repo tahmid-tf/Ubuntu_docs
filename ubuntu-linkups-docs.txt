@@ -1,0 +1,79 @@
+--------------------------------------------------- Ubuntu -----------------------------------------------------
+
+Gnome tweeks
+https://linuxconfig.org/how-to-install-tweak-tool-on-ubuntu-20-04-lts-focal-fossa-linux
+
+pop os theme
+https://itsfoss.com/pop-icon-gtk-theme-ubuntu/
+
+pop tiling
+https://linoxide.com/how-to-install-pop-shell-window-tiling-extension-on-ubuntu-20-04/
+
+Fedora fix
+https://stackoverflow.com/questions/59952052/what-do-i-need-to-install-to-use-fwupd-to-update-my-computers-firmware
+
+------------------------------------------------ lampp setup ----------------------------------------------------
+
+Change Apache document root folder
+https://askubuntu.com/questions/337874/change-apache-document-root-folder-to-secondary-hard-drive
+
+Mysql workbench install
+https://dev.to/gsudarshan/how-to-install-mysql-and-workbench-on-ubuntu-20-04-localhost-5828
+
+lampp setup
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------- Django ---------------------------------------------------------------
+
+Django install
+https://www.e2enetworks.com/help/knowledge-base/how-to-install-django-on-ubuntu-18-04-16-04-lts/
+
+Django version check
+https://stackoverflow.com/questions/6468397/how-to-check-django-version
+
+s
+-------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------- xampp setup ------------------------------------------------
+
+running xampp control panel
+
+sudo /opt/lampp/manager-linux-x64.run
+
+Changing xampp root directory
+https://askubuntu.com/questions/64095/change-xampps-htdocs-web-root-folder-to-another-one
+
+------------------------------------------------- read write lock and unlock ----------------------------------------
+
+read only and read-write command,
+
+chmod 0444 ./read-only.txt
+
+chmod 777 ./read-write.txt (unlocked)
+
+---------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------- laravel setup -----------------------------------------------------
+
+https://www.hostinger.com/tutorials/how-to-install-laravel-on-ubuntu-18-04-with-apache-and-php/
+
+----------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------- mysql fix --------------------------------------------------------
+
+after a successful setup of mysql apply this on mysql-> 
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Password@123';
+
+------------------------------------------------------------------------------------------------------- end - mysql fix
+
+
+
+---------------------- hidding scrollbar -----------------------
+
+https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
+
+----------------------------------------------------------------

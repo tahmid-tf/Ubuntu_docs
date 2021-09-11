@@ -1,0 +1,23 @@
+laravel 7 nexmo tutorial
+
+https://www.youtube.com/watch?v=9adYwO0sdHo
+
+------------------------------------------------------------------
+
+laravel nexmo sms documentation
+
+https://laravel.com/docs/7.x/notifications#sms-notifications
+
+------------------------------------------------------------------
+
+Usage of nexmo
+
+https://github.com/Nexmo/nexmo-laravel
+
+Nexmo::message()->send([
+    'to'   => '14845551244',
+    'from' => '16105552344',
+    'text' => 'Using the facade to send a message.'
+]);
+
+-------------------------------------------------------------------

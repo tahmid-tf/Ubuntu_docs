@@ -33,7 +33,6 @@ https://www.e2enetworks.com/help/knowledge-base/how-to-install-django-on-ubuntu-
 Django version check
 https://stackoverflow.com/questions/6468397/how-to-check-django-version
 
-s
 -------------------------------------------------------------------------------------------------------------------
 
 

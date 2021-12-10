@@ -85,3 +85,8 @@ sudo apt-get update
 sudo apt-get install aria2
 
 ----------------------------------------------------------------
+
+---------------------- shell color change -----------------------
+
+https://extensions.gnome.org/extension/19/user-themes/
+-----------------------------------------------------------------

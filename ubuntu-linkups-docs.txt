@@ -77,3 +77,12 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Password
 https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
 
 ----------------------------------------------------------------
+
+---------------------- area2c downloader -----------------------
+
+https://askubuntu.com/questions/554062/how-i-can-install-internet-download-manager-on-ubuntu-14-04
+
+sudo apt-get update
+sudo apt-get install aria2
+
+----------------------------------------------------------------

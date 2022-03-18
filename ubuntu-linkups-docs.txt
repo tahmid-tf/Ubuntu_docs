@@ -69,6 +69,11 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Password
 
 ------------------------------------------------------------------------------------------------------- end - mysql fix
 
+------------------------------------ maria db docs and change password -------------------------------------------------
+
+https://www.ibm.com/docs/en/spectrum-lsf-rtm/10.2.0?topic=ssl-configuring-default-root-password-mysqlmariadb
+
+------------------------------------ maria db docs and change password -------------------------------------------------
 
 
 ---------------------- hidding scrollbar -----------------------

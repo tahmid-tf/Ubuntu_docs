@@ -95,3 +95,13 @@ sudo apt-get install aria2
 
 https://extensions.gnome.org/extension/19/user-themes/
 -----------------------------------------------------------------
+
+--------------------- removing repositories pop os ---------------
+
+cd /etc/apt/sources.list.d/
+
+from there remove any repos if needed
+
+--------------------- removing repositories pop os ---------------
+
+

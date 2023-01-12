@@ -2,6 +2,10 @@
 
    https://www.digitalocean.com/community/tutorials/how-to-install-php-7-4-and-set-up-a-local-development-environment-on-ubuntu-20-04
    
+   or run in terminal
+   
+   sudo apt install php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath
+   
 2. secondly 7.4 version e switch korte hobe jodi multiple version thake
 
    sudo update-alternatives --config php
